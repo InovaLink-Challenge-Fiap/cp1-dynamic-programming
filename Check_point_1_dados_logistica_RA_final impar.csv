@@ -1,0 +1,6 @@
+entrega_id,origem,destino,tipo_carga,peso_kg,valor_frete,prazo_dias,prioridade_cliente,situacao_rota,transportadora
+1,SP,BA,Eletronico,100,1000,3,vip,livre,A
+2,RJ,SP,Alimento,200,1500,5,normal,critica,B
+3,MG,RJ,Roupas,150,1200,4,vip,atencao,A
+4,BA,PR,Alimento,300,1800,6,normal,livre,C
+5,PR,MG,Eletronico,250,1600,5,vip,critica,B
