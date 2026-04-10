@@ -26,9 +26,8 @@ Enunciado B (RA Ímpar) - Simular sistema de fretes e entregas, priorizando carg
 - Agrupamento por transportadora
 - Fila de entregas com deque
 - Ordenação por prioridade (situação da rota → cliente → prazo)
+- Filtragem por meio de gráficos com a biblioteca matplotlib
 
-## 🚧 A completar
-- Relatório explicativo
 
 ## ▶️ Como executar
 ```bash
