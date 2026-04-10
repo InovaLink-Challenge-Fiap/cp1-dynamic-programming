@@ -28,8 +28,6 @@ Enunciado B (RA Ímpar) - Simular sistema de fretes e entregas, priorizando carg
 - Ordenação por prioridade (situação da rota → cliente → prazo)
 
 ## 🚧 A completar
-- Recursão
-- Gráficos
 - Relatório explicativo
 
 ## ▶️ Como executar
